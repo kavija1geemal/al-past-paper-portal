@@ -1,0 +1,14 @@
+{
+    "grade12": [
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Biology"
+    ],
+    "grade13": [
+        "Computer Science",
+        "Economics",
+        "Accounting",
+        "Advanced Mathematics"
+    ]
+}
